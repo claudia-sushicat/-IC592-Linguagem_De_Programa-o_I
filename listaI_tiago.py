@@ -436,7 +436,7 @@ escreva a soma das idades do homem mais velho com a mulher mais nova, e o produt
 idades do homem mais novo com a mulher mais velha.
 '''
 
-# eu faço entao escroto
+
 
 idade_um_mulher = int(input('digite a idade da primeira mulher'))
 idade_dois_mulher = int(input('digite a idade da segunda mulher'))
